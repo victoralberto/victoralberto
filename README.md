@@ -14,18 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone 👋
+#Hi everyone 👋. Welcome to my profile!
 
-# Here you can search a few things about me
+## Here you can search a few things about me
 
-Name: Victor Alberto
-
-Age: 18 years old
-
-Living: Olinda, Pernambuco, Brazil
-
-University: Systems Analysis and Development
-
-Stack: Currently i'm studying PHP with Laravel and Django
-
-Work: I'm intern in Alpha Faculdade using PHP with Laravel
+###Name: Victor Alberto
+###Age: 18 years old
+###Living: Olinda, Pernambuco, Brazil
+###University: Systems Analysis and Development
+###Stack: Currently i'm studying PHP with Laravel and Django
+###Work: I'm intern in Alpha Faculdade using PHP with Laravel
