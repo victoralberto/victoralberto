@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi everyone 👋. Welcome to my profile!
+# Hi everyone 👋
 
-## Here you can search a few things about me
+## Welcome to my profile!!
 
 ### Name: Victor Alberto
 ### Age: 18 years old
