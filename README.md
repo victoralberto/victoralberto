@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Welcome to my profile. I'll talk a little bit about me and about what i'm studying and working currently. So i hope you like 😄.
 
 ## A few things about me:
-'Name:' Victor Alberto
-'Age:' 18 years old
-'Living:' Olinda, Pernambuco, Brazil
-'University:' Systems Analysis and Development
-'Stack:' Currently i'm studying PHP with Laravel and Django
-'Work:' I'm intern in Alpha Faculdade using PHP with Laravel
+`Name:` Victor Alberto
+`Age:` 18 years old
+`Living:` Olinda, Pernambuco, Brazil
+`University:` Systems Analysis and Development
+`Stack:` Currently i'm studying PHP with Laravel and Django
+`Work:` I'm intern in Alpha Faculdade using PHP with Laravel
