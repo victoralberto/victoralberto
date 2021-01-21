@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi everyone
+Hi everyone 👋
 
 # Here you can search a few things about me
