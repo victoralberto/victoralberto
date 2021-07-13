@@ -19,8 +19,8 @@ Welcome to my profile. I'll talk a little bit about me and about what i'm studyi
 
 ## A few things about me:
 `Name:` Victor Alberto </br>
-`Age:` 18 years old </br>
+`Age:` 19 years old </br>
 `Living:` Olinda, Pernambuco, Brazil </br>
 `University:` Systems Analysis and Development </br>
-`Stack:` Currently i'm studying PHP with Laravel and Django </br>
+`Stack:` Currently i'm studying PHP with Laravel and Lumen, and Django </br>
 `Work:` I'm intern in Alpha Faculdade using PHP with Laravel </br>
