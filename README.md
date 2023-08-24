@@ -23,4 +23,3 @@ Welcome to my profile. I'll talk a little bit about me and about what i'm studyi
 `Living:` Olinda, Pernambuco, Brazil </br>
 `University:` Systems Analysis and Development </br>
 `Stack:` Currently i'm studying C# .NET </br>
-`Work:` I'm intern in Alpha Faculdade using PHP with Laravel </br>
